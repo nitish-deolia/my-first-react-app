@@ -1,3 +1,7 @@
+##############
+I have created this React App (Tic-Tac-Toe) Simple game with the help of React.Dev tutorial. 
+I am learning React and this tutorial helped a lot.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
